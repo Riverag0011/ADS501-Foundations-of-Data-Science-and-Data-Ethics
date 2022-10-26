@@ -1,2 +1,2 @@
 # ADS501
-Coding assignments
+Simple coding assignments
